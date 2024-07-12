@@ -622,6 +622,13 @@
 			"dppx": "?"
 		},
 		{
+			"name": "HP Pavilion Gaming 15-ak102nl",
+			"w": 1920,
+			"h": 1080,
+			"d": 15.6,
+			"dppx": 1.25
+		},
+		{
 			"name": "HP ZR30w",
 			"w": 2560,
 			"h": 1600,

@@ -1432,6 +1432,14 @@
 			"w": 1080,
 			"h": 2400,
 			"dppx": 2.61
+		},
+		{
+			"name": "OnePlus 7T Pro 5G McLaren on T-Mobile",
+			"w": 1440,
+			"h": 3120,
+			"d": 6.567,
+			"ppi": 515,
+			"dppx": "?"
 		}
 	],
 	"dimension": "d"
